@@ -157,12 +157,12 @@ header > p {
 
 nav{
     background-color: var(--cor5);
-    padding: 5px;
+    padding: 10px;
 }
 
 nav > a {
     color: white;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
